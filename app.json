@@ -7,7 +7,7 @@
     "pages/profile/profile"
   ],
   "window": {
-    "navigationBarBackgroundColor": "#35495e",
+    "navigationBarBackgroundColor": "#37363C",
     "navigationBarTextStyle": "white",
     "navigationBarTitleText": "电影 « 豆瓣",
     "backgroundColor": "#000000",
